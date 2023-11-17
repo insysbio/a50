@@ -1,7 +1,6 @@
 #
 #    A50 Calculator
 #
-# library(tidyverse)
 
 extract <- function(text) {
     text |>
