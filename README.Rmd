@@ -1,0 +1,22 @@
+# A50 - little package for cytocon project
+
+## installation locally
+
+```R
+# install devtools to simplify installation from Github
+install.packages("devtools")
+# install from github
+devtools::install_github("insysbio/a50")
+```
+
+Test
+```R
+library("a50")
+```
+
+## Install on server
+
+```R
+install.packages("opencpu")
+opencpu::ocpu_start_app("a50")
+```
