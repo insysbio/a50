@@ -10,6 +10,6 @@ License: MIT
 Encoding: UTF-8
 LazyData: true
 Imports:
-    stringr
-    dplyr
+    stringr,
+    dplyr,
     tibble
